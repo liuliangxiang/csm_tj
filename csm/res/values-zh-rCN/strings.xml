@@ -1,0 +1,200 @@
+<resources>
+
+    <string name="app_name">CSM</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_csmmain">Csmmain</string>
+    <string name="bianhao">编号:</string>
+    <string name="xingming">姓名:</string>
+    <string name="xingbietitle">性别:</string>
+    <string name="zhuangtai">状态:</string>
+    <string name="baojing">报警:</string>
+    <string name="csi">CSI</string>
+    <string name="eeg">BS</string>
+    <string name="dongjie">冻结</string>
+    <string name="pause">暂停</string>
+    <string name="resume">恢复</string>
+    <string name="save">保存</string>
+    <string name="warnon">报警:开</string>
+    <string name="warnoff">报警:关</string>
+    <string name="jilu">记录</string>
+    <string name="qushitu">趋势图</string>
+    <string name="shezi">设置</string>
+    <string name="binhao">数据</string>
+    <string name="menumj">实时波形时间间隔</string>
+    <string name="menumjrec">波形回顾时间间隔</string>
+    <string name="menueeg">EEG波形时间间隔</string>
+    
+    <string name="scaleeeg">EEG 扫描速度设置</string>
+    <string name="scaleeegrec">EEG 回顾扫描速度设置</string>
+    
+    <string name="csitime">波形设置</string>
+    <string name="eegtime">EEG时间设置</string>
+    
+    <string name="bjshezi">报警设置</string>
+    <string name="sjshezi">事件设置</string>
+    <string name="shjshezi">时间设置</string>
+    <string name="dayshezi">打印设置</string>
+    <string name="benjishezi">本机设置</string>
+    <string name="baojingkaiguan">报警开关</string>
+    <string name="baojingguan">关</string>
+    <string name="baojingkai">开</string>
+    <string name="shangxiangshez">上限设置</string>
+    <string name="xiaxiangshez">下限设置</string>
+    <string name="youdao">诱导</string>
+    <string name="chaguan">插管</string>
+    <string name="weichi">维持</string>
+    <string name="waike">外科</string>
+     <string name="zhushe">注射</string>
+    <string name="beizhu">备注</string>
+    <string name="weichijies">维持结束</string>
+    <string name="yidong">移动</string>
+    <string name="wushijian">无事件</string>
+    
+    <string name="csiwave">CSI波形图</string>
+    <string name="csitree">CSI柱状图</string>
+    <string name="eegwave">BS波形图</string>
+    <string name="csieegwave">BS/CSI波形图</string>
+    
+    <string name="wavereview">波形回顾</string>
+    <string name="print">打印</string>
+    
+    
+    <string name="hour">时</string>
+    <string name="min">分</string>
+    <string name="year">年</string>
+    <string name="mon">月</string>
+    <string name="day">日</string>
+    <string name="shez">设置</string>
+    <string name="english">英语</string>
+    <string name="chinese">中文</string>
+    <string name="setlanguage">语言设置:  </string>
+    <string name="binrenziliao">病人资料</string>
+     <string name="yansimos">演示模式</string>
+     <string name="ruanjianbanb">软件版本</string>
+     <string name="binglihao">编号</string>
+     <string name="xingbie">性别</string>
+     <string name="nianying">年龄</string>
+     <string name="xingming1">姓名</string>
+     <string name="softversion">当前软件版本号为V2.0 (5J27)</string>
+     
+     <string name="majui">麻深指数 CSI</string>
+     <string name="zonghecanshu">综合参数</string>
+     <string name="xinxitishi">信息提示</string>
+     <string name="baofayizhibi">爆发抑制比BS%</string>
+     <string name="jidianzhi">肌电值 EMG</string>
+     <string name="xinhaoliang">信号量 SQI</string>
+     <string name="heise">黑色(black)</string>
+     <string name="baise">白色(white)</string>
+     <string name="lianjiezhuangtai">连接状态</string>
+     <string name="diancidianliang">电池电量</string>
+     
+     <string name="zhengzaichongdian">正在充电</string>
+     
+     <string name="sdunmount">SD卡没有加载</string>
+     <string name="sdfull">SD卡已满</string>
+     <string name="recwarning">查看记录信息时请停止</string>
+     <string name="binrenwarning">修改个人时请停止</string>
+     <string name="saveOver">所有数据都已经保存</string>
+     <string name="start">开始</string>
+     <string name="stop">停止</string>
+     <string name="man">男</string>
+     <string name="woman">女</string>
+     <string name="normalchannel">数据通信正常</string>
+     <string name="nochannel">数据通信未连接</string>
+     <string name="errorchannel">数据通信异常</string>
+     
+     <string name="normalcsi">CSI值正常</string>
+     <string name="lowcsi">CSI值偏低</string>
+     <string name="highcsi">CSI值偏高</string>
+     <string name="benjishezhi">本机设置</string>
+     <string name="dianliang">电量:</string>
+     <string name="charging">充电</string>
+     <string name="chargfull">充满</string>
+     <string name="getrecfinish">数据加载完成</string>
+     <string name="ok">确定</string>
+     <string name="warning">提示</string>
+     <string name="warn_infoempty">请先输入完整个人信息之后再测量</string>
+     <string name="warn_savedata">正在保存测量数据</string>
+     <string name="warn_deletedata">是否确定删除该文件</string>
+     <string name="warn_loaddata">正在加载数据，请稍候！</string>
+     <string name="csi_review">CSI波形回顾</string> 
+     <string name="bs_review">BS波形回顾</string>
+     <string name="eeg_review">EEG波形回顾</string>
+     <string name="csi_t_review">CSI_T波形回顾</string>
+     <string name="csi_show">CSI波形演示</string> 
+     <string name="bs_show">BS波形演示</string>
+     <string name="csi_t_show">CSI_T波形演示</string>
+     <string name="tantou_noconnect">探头没有正常连接</string>
+     <string name="saving">正在保存数据</string>
+     <string name="data_nosave">数据未保存</string>
+     <string name="sd_unmount">SD卡未正常加载</string>
+     <string name="sd_full">SD卡已满</string>
+     <string name="data_error">接收的数据有问题</string>
+     <string name="info_changed">个人信息有变化，及时保存信息</string>
+     <string name="info_error">个人信息不完整，无法保存数据</string>
+     <string name="review_record">正在查看记录信息，无法保存数据</string>
+     <string name="print_start_time">起始日期/时间:</string>
+     <string name="print_use_time">使用时间:</string>
+     <string name="print_end_time">结束日期/时间:</string>
+     <string name="print_now_time">打印日期/时间:</string>
+     <string name="no_bluetooth">没有找到蓝牙适配器</string>
+     <string name="no_printer">没有选择打印机</string>
+     <string name="bluetooth_error">读取蓝牙设备错误</string>
+     <string name="printing">正在打印...</string>
+     <string name="create_paper_error">创建打印页面失败</string>
+     <string name="start_time">起始时间</string>
+     <string name="end_time">结束时间</string>
+     <string name="delete">删除</string>
+     <string name="select_printer">请选择打印机</string>
+     <string name="exit">退出</string>
+     <string name="eegfudu">EEG幅度设置</string>
+     
+      <string name="bojingyinshezhi">CSI报警音设置</string>
+       <string name="bojingxianshezhi">CSI报警线显示方式设置</string>
+      
+      
+
+            
+    <string-array name="majui_array">
+        <item>1秒</item>  
+        <item>2秒</item>
+        <item>5秒</item>  
+        <item>10秒</item>  
+        <item>1分钟</item>  
+        <item>2分钟</item>  
+     </string-array> 
+     
+    <string-array name="fudu_array">
+        <item>5uv</item>  
+        <item>10uv</item>
+        <item>25uv</item>  
+        <item>50uv</item>    
+     </string-array>
+    
+     <string-array name="banner_array">
+        <item>平行线</item>  
+        <item>条形</item>  
+        <item>无</item>   
+     </string-array> 
+     
+     <string-array name="sound_array">
+        <item>音效 1</item>  
+        <item>音效 2</item>  
+        <item>音效 3</item>
+        <item>音效4</item>
+     </string-array> 
+     
+    <string-array name="shijianshez_array">
+        <item>诱导</item>  
+        <item>插管</item>  
+        <item>维持</item>  
+        <item>外科</item>  
+        <item>注射</item>  
+        <item>备注</item> 
+        <item>维持结束</item>  
+        <item>移动</item> 
+     </string-array> 
+    
+
+</resources>

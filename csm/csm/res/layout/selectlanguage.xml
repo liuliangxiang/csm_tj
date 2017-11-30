@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?> 
+<com.example.csm.boxingview.selectlanguageview xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:layout_width="wrap_content" 
+    android:layout_height="wrap_content" 
+    android:layout_marginLeft="10dp"
+    >
+    <Button android:layout_width="120dp"
+        	  android:layout_height="40dp"
+        	  android:text="@string/english"
+        	  android:id="@+id/show"
+        	  android:background="#ccbbbbbb"
+        	  android:enabled="false"
+     />
+    <Button
+        android:layout_width="40dp"
+        android:layout_height="40dp"
+        android:layout_marginLeft="120dp"
+        android:background="@drawable/blank"
+        android:text="▼"
+        android:textScaleX="2"
+        android:id="@+id/expand"
+        />
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="39dp"
+        android:background="@drawable/blank"
+        android:text="@string/english"
+        android:id="@+id/englishselect"
+        android:visibility="gone"
+        />
+    
+    <Button
+        android:layout_width="160dp"
+        android:layout_height="40dp"
+        android:layout_marginTop="78dp"
+        android:background="@drawable/blank"
+        android:text="@string/chinese"
+        android:id="@+id/chineseselect"
+         android:visibility="gone"
+        />
+</com.example.csm.boxingview.selectlanguageview>
+

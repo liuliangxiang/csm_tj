@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.example.csm.boxingview.thingshezView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_marginTop="20dp"
+    android:id="@+id/thingshezView"
+    android:layout_height="wrap_content" >
+    <TableRow android:layout_width="wrap_content"
+         android:layout_marginTop="5dp"
+	        android:layout_height="wrap_content"> 
+	 <TextView android:layout_width="wrap_content"
+	     	android:text="@string/youdao"
+	     	android:layout_marginLeft="10dp"
+	     	android:layout_gravity="center"
+	     	android:textSize="20dp"
+	     	android:textColor = "#ffF5F5DC"
+	        android:layout_height="wrap_content"/> 
+	 <Button
+	     android:layout_width="36dp"
+	     android:layout_height="36dp"
+	     android:layout_marginLeft="4dp"
+	     android:layout_marginTop="4dp"
+	     android:background="@drawable/select"
+	     android:id="@+id/btn1"
+	     />
+	     
+	 <TextView android:layout_width="wrap_content"
+	     	android:text="@string/chaguan"
+	     	android:layout_marginLeft="15dp"
+	     	android:textSize="20dp"
+	     	android:layout_gravity="center"
+	     	android:textColor = "#ffF5F5DC"
+	        android:layout_height="wrap_content"/> 
+	 <Button
+	     android:layout_width="36dp"
+	     android:layout_height="36dp"
+	     android:layout_marginLeft="4dp"
+	     android:layout_marginTop="4dp"
+	     android:background="@drawable/select"
+	     android:id="@+id/btn2"
+	     >
+	     
+	 </Button>
+	 </TableRow>
+	 
+     <TableRow android:layout_width="wrap_content"
+         android:layout_marginTop="5dp"
+	        android:layout_height="wrap_content"> 
+	 <TextView android:layout_width="wrap_content"
+	     	android:text="@string/weichi"
+	     	android:layout_marginLeft="10dp"
+	     	android:textSize="20dp"
+	     	android:layout_gravity="center"
+	     	android:textColor = "#ffF5F5DC"
+	        android:layout_height="wrap_content"/> 
+	 <Button
+	     android:layout_width="36dp"
+	     android:layout_height="36dp"
+	     android:layout_marginLeft="4dp"
+	     android:background="@drawable/select"
+	     android:layout_marginTop="4dp"
+	     android:id="@+id/btn3"
+	     />
+	     
+	 <TextView android:layout_width="wrap_content"
+	     	android:text="@string/waike"
+	     	android:layout_marginLeft="15dp"
+	     	android:textSize="20dp"
+	     	android:layout_gravity="center"
+	     	android:textColor = "#ffF5F5DC"
+	        android:layout_height="wrap_content"/> 
+	 <Button
+	     android:layout_width="36dp"
+	     android:layout_height="36dp"
+	     android:layout_marginLeft="4dp"
+	     android:layout_marginTop="4dp"
+	    android:background="@drawable/select"
+	     android:id="@+id/btn4"
+	     >
+	     
+	 </Button>
+	 </TableRow>
+	 
+      <TableRow android:layout_width="wrap_content"
+           android:layout_marginTop="5dp"
+	        android:layout_height="wrap_content"> 
+	 <TextView android:layout_width="wrap_content"
+	     	android:text="@string/zhushe"
+	     	android:layout_gravity="center"
+	     	android:textSize="20dp"
+	     	android:layout_marginLeft="10dp"
+	     	android:textColor = "#ffF5F5DC"
+	        android:layout_height="wrap_content"/> 
+	 <Button
+	     android:layout_width="36dp"
+	     android:layout_height="36dp"
+	     android:layout_marginLeft="4dp"
+	     android:layout_marginTop="4dp"
+	    android:background="@drawable/select"
+	     android:id="@+id/btn5"
+	     />
+	     
+	 <TextView android:layout_width="wrap_content"
+	     	android:text="@string/beizhu"
+	     	android:layout_marginLeft="15dp"
+	     	android:textSize="20dp"
+	     	android:layout_gravity="center"
+	     	android:textColor = "#ffF5F5DC"
+	        android:layout_height="wrap_content"/> 
+	 <Button
+	     android:layout_width="36dp"
+	     android:layout_height="36dp"
+	     android:layout_marginLeft="4dp"
+	     android:background="@drawable/select"
+	     android:layout_marginTop="4dp"
+	     android:id="@+id/btn6"
+	     >
+	     
+	 </Button>
+	 </TableRow>
+	 
+       <TableRow android:layout_width="wrap_content"
+            android:layout_marginTop="5dp"
+	        android:layout_height="wrap_content"> 
+	 <TextView android:layout_width="wrap_content"
+	     	android:text="@string/weichijies"
+	     	android:layout_gravity="center"
+	     	android:textSize="20dp"
+	     	android:layout_marginLeft="10dp"
+	     	android:textColor = "#ffF5F5DC"
+	        android:layout_height="wrap_content"/> 
+	 <Button
+	     android:layout_width="36dp"
+	     android:layout_height="36dp"
+	     android:layout_marginLeft="4dp"
+	      android:background="@drawable/select"
+	      android:layout_marginTop="4dp"
+	     android:id="@+id/btn7"
+	     />
+	     
+	 <TextView android:layout_width="wrap_content"
+	     	android:text="@string/yidong"
+	     	android:layout_marginLeft="15dp"
+	     	android:textSize="20dp"
+	     	android:layout_gravity="center"
+	     	android:textColor = "#ffF5F5DC"
+	        android:layout_height="wrap_content"/> 
+	 <Button
+	     android:layout_width="36dp"
+	     android:layout_height="36dp"
+	     android:layout_marginLeft="4dp"
+	     android:layout_marginTop="4dp"
+	      android:background="@drawable/select"
+	     android:id="@+id/btn8"
+	     >
+	     
+	 </Button>
+	 </TableRow>
+	  
+     <TableRow android:layout_width="wrap_content"
+            android:layout_marginTop="5dp"
+	        android:layout_height="wrap_content"> 
+	 <TextView android:layout_width="wrap_content"
+	     	android:text="@string/wushijian"
+	     	android:layout_gravity="center"
+	     	android:textSize="20dp"
+	     	android:layout_marginLeft="10dp"
+	     	android:textColor = "#ffF5F5DC"
+	        android:layout_height="wrap_content"/> 
+	 <Button
+	     android:layout_width="36dp"
+	     android:layout_height="36dp"
+	     android:layout_marginLeft="4dp"
+	     android:layout_marginTop="4dp"
+	      android:background="@drawable/select"
+	     android:id="@+id/btn9"
+	     />
+	     
+	 </TableRow>
+</com.example.csm.boxingview.thingshezView>
